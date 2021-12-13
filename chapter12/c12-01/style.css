@@ -1,0 +1,26 @@
+@charset "uf-8";
+body {
+    margin: 0;
+}
+
+/*
+各パートにパディング、背景、テキスト色などを指定する
+<div class="container">の子要素に指定する
+*/
+.header-inner {
+    bachground: #bad7f5;
+}
+.nav-inner {
+    color: #fff;
+    background: #0086f9;
+}
+.main-inner {
+    background: #fffde3;
+    height: 400px;
+}
+.sidebar-inner {
+    background: #c0f5b9;
+}
+.footer-inner {
+    background: #bad7f5;
+}

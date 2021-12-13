@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+form {
+  padding: 16px;
+}
+input {
+  box-sizing: border-box;
+}
+input[type="text"] {
+  margin: 0.5em 0;
+  padding: 0.5em;
+  width: 100%;
+  font-size: 16px;
+}
+input[type="submit"] {
+  border: 1px solid #0086f9;
+  border-radius: 6px;
+  padding: 12px 48px;
+  font-size: 16px;
+  background: liner-gradient(0deg, #0086f9);
+  color: #fff;
+  font-weight: bold;
+}
